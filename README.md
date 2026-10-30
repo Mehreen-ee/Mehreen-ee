@@ -1,19 +1,26 @@
-# Hi, I'm Mehreen!
+# Hi, I'm Mehreen! 👋
 
-I'm an Electrical Engineering graduate student at the University of Virginia.
+I'm an Electrical Engineering graduate student at the University of Virginia (UVA).
 
-### Interests
+### 🎓 About Me
+I am currently pursuing my Master's in Electrical Engineering at the University of Virginia (UVA). I graduated in Electrical Engineering from GIKI, Pakistan. My interests include control systems, embedded systems, and computer architecture. I enjoy learning new technologies, exploring different areas of engineering, and continuously improving my technical skills.
+
+### 💡 Interests
 - Control Systems
 - Embedded Systems
 - Computer Architecture
 - Electrical Engineering
+- C++ and Linux
 
-### Currently Learning
-- C++
-- Linux and Git/GitHub
-- AI Hardware and Control Systems
+### 🌱 Currently Learning
+- C++ programming
+- Git and GitHub
+- Linux
+- Engineering and control systems
 
-I'm interested in learning new engineering skills and working on practical technical projects.
+### 📫 Connect with Me
+- https://www.linkedin.com/in/mehreen-imran-6a235a43b/
+
 
 <!--
 **Mehreen-ee/Mehreen-ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
